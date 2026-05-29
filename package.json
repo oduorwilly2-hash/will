@@ -1,0 +1,33 @@
+{
+  "name": "wilfred-universe",
+  "version": "1.0.0",
+  "description": "A futuristic personal universe portfolio - Law, Technology & Creativity",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^14.0.0",
+    "framer-motion": "^10.16.16",
+    "aos": "^2.3.4",
+    "lucide-react": "^0.263.0",
+    "zustand": "^4.4.0",
+    "react-use": "^17.4.0",
+    "react-confetti": "^6.1.0",
+    "tsparticles": "^3.3.0",
+    "react-tsparticles": "^2.13.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18",
+    "@types/node": "^20",
+    "typescript": "^5",
+    "tailwindcss": "^3.3.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24"
+  }
+}
